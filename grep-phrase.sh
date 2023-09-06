@@ -19,7 +19,7 @@ while getopts ":d:f:p:" opt; do
 done
 
 if [ -z "$directory" ] || [ -z "$file" ] || [ -z "$phrase" ]; then
-  echo "Usage: $0 -d <directory> -f <file> -p <phrase>"
+  echo "Usage: $0 -d DIRECTORY -f FILE -p PHRASE"
   exit 1
 fi
 
