@@ -1,6 +1,9 @@
-https://tryhackme.com/room/githappens
-These scripts for the GitHappens machine are designed to simplify the process of finding the flag.
+# Try Hack Me "GitHappens"
 
-Usage:
-python3 grep-phrase.py [-h] -d DIRECTORY -f FILE -p PHRASE
-./grep-phrase.sh -d <directory> -f <file> -p <phrase>
+These scripts are designed to assist with flag discovery on the GitHappens machine.
+
+## Usage
+
+Run the scripts with the desired parameters:
+- Python 3 script: python3 grep-phrase.py -d DIRECTORY -f FILE -p PHRASE
+- ./grep-phrase.sh -d DIRECTORY -f FILE -p PHRASE
