@@ -2,8 +2,8 @@ import os
 import argparse
 
 def main():
-    bright_blue = '\033[1;96m'  # Brighter blue in bold
-    bright_green = '\033[1;92m'  # Brighter green in bold
+    bright_blue = '\033[1;96m'
+    bright_green = '\033[1;92m'
     red = '\033[0;31m'
     nocolor = '\033[0m'
 
