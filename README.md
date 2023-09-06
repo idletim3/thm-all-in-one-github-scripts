@@ -4,8 +4,6 @@ Scripts designed to assist with the flag discovery on the GitHappens machine.
 
 Search for a specific phrase within a designated file across every commit folder. 
 
-https://tryhackme.com/room/githappens
-
 ## Usage
 
 Run the scripts with the desired parameters:
