@@ -1,4 +1,4 @@
-# Try Hack Me "GitHappens"
+# TryHackMe "GitHappens"
 
 These scripts are designed to assist with flag discovery on the GitHappens machine.
 
